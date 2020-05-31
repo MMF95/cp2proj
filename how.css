@@ -6,7 +6,7 @@ body {
 
 
 .jumbotron {
-    background: url("../img/6.jpg") no-repeat center;
+    background: url("6.jpg") no-repeat center;
 }
 .btn-primary {
     background-color: #c60063;
@@ -16,7 +16,7 @@ body {
 
 
 #Register {
-    background: url("../img/9.jpg") no-repeat center;
+    background: url("9.jpg") no-repeat center;
 }
 
 
